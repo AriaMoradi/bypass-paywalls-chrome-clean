@@ -724,6 +724,7 @@
     "*://*.bntech.io/*",
     "*://*.bwbx.io/*",
     "*://*.californiatimes.com/*",
+    "*://*.cedscdn.it/*",
     "*://*.cedsdigital.it/*",
     "*://*.codebeautify.org/*",
     "*://*.corriereobjects.it/*",
@@ -741,5 +742,5 @@
     "*://html.onlineviewer.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.1.6.6"
+  "version": "3.1.6.7"
 }
