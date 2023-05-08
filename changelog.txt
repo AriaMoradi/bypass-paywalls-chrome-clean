@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Remove Medienhaus Aachen (fix obsolete)
 
 * v3.1.7.0 (2023-05-07)
 Add Cairns Post, Geelong Advertiser & Townsville Bulletin (Australia News Corp)
