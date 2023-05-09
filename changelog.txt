@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Fix Advance Local (no amp)
 
 * v3.1.7.3 (2023-05-08)
 Remove Medienhaus Aachen (fix obsolete)
