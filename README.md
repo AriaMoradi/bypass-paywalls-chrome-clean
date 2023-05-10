@@ -414,6 +414,7 @@ Grouped in options:\
 [Investors' Chronicle](https://www.investorschronicle.co.uk) -
 [Irish Independent](https://www.independent.ie) -
 [London Review of Books](https://www.lrb.co.uk) -
+[Monocle](https://monocle.com) -
 [New Left Review](https://newleftreview.org) -
 [Private Equity News](https://www.penews.com) -
 [Prospect Magazine](https://www.prospectmagazine.co.uk) -

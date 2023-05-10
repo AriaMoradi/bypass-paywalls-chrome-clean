@@ -419,6 +419,7 @@
     "*://*.mlive.com/*",
     "*://*.modernhealthcare.com/*",
     "*://*.monacomatin.mc/*",
+    "*://*.monocle.com/*",
     "*://*.morgenpost.de/*",
     "*://*.muensterschezeitung.de/*",
     "*://*.mundodeportivo.com/*",
@@ -740,5 +741,5 @@
     "*://html.onlineviewer.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.1.7.4"
+  "version": "3.1.7.5"
 }
