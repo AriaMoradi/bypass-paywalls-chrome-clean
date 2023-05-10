@@ -2,9 +2,11 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add Dagens Nyheter (link to archive.is)
 Add Monocle (UK)
 Add Stylist.co.uk
 Fix Advance Local (no amp)
+Fix El Espanol (js)
 
 * v3.1.7.3 (2023-05-08)
 Remove Medienhaus Aachen (fix obsolete)
