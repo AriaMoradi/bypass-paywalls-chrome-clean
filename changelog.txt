@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.1.8.0 (2023-05-14)
 Add Dagens Nyheter (link to archive.is)
 Add Monocle (UK)
 Add Stylist.co.uk
