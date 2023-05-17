@@ -30,7 +30,7 @@ You can add/pin the extension icon to the toolbar with the toolbar extensions me
 3. Move the folder to a permanent location on your computer (do not delete the folder after installation).
 4. Go to the extensions page (`chrome://extensions`).
 5. Enable Developer Mode.
-6. Click `Load unpacked` and select/open the extension folder.
+6. Click `Load unpacked` and select/open the extension folder (contains file manifest.json).
 
 *  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
 
@@ -180,7 +180,6 @@ Grouped in options:\
 
 ##### Magazines/Blogs
 [Medium](https://www.medium.com)\
-[Substack](https://substack.com) (link to Google Search Tool; opt-in to custom sites for custom domains)\
 Grouped in options:\
 *Medium custom domains* like (opt-in to custom sites for unlisted)\
 [Better Programming](https://betterprogramming.pub) -
@@ -913,7 +912,7 @@ Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass
 3. Disable Javascript on the site (by browser, uBlock Origin or other extension).
 4. Add the domain as custom site for more bypass options.
 5. Open page in reader view (by browser or extension).
-6. Try one of the archive sites (for Google Search Tool test url & copy html (tab) code to https://codebeautify.org/htmlviewer or https://html.onlineviewer.net).
+6. Try one of the archive sites.
 
 ### Add custom site
 Add your own custom site (also for testing).  

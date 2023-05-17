@@ -568,7 +568,6 @@
     "*://*.stratfor.com/*",
     "*://*.studocu.com/*",
     "*://*.stylist.co.uk/*",
-    "*://*.substack.com/*",
     "*://*.sudinfo.be/*",
     "*://*.sudouest.fr/*",
     "*://*.sueddeutsche.de/*",
@@ -727,7 +726,6 @@
     "*://*.californiatimes.com/*",
     "*://*.cedscdn.it/*",
     "*://*.cedsdigital.it/*",
-    "*://*.codebeautify.org/*",
     "*://*.corriereobjects.it/*",
     "*://*.emol.cl/*",
     "*://*.flip-pay.com/*",
@@ -738,10 +736,8 @@
     "*://*.ndcmediagroep.nl/*",
     "*://*.nyt.com/*",
     "*://*.pasedigital.cl/*",
-    "*://*.substackcdn.com/*",
     "*://*.wallkit.net/*",
-    "*://html.onlineviewer.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.1.8.0"
+  "version": "3.1.8.1"
 }
