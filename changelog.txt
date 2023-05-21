@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.1.9.0 (2023-05-21)
 Remove (custom) Substack (fix obsolete)
 Remove Sueddeutsche Zeitung (fix obsolete)
 Fix Citywire
