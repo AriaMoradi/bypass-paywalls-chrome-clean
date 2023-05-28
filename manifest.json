@@ -137,6 +137,7 @@
     "*://*.codesports.com.au/*",
     "*://*.commentary.org/*",
     "*://*.commercialappeal.com/*",
+    "*://*.computerweekly.com/*",
     "*://*.connaissancedesarts.com/*",
     "*://*.corriere.it/*",
     "*://*.corriereadriatico.it/*",
@@ -369,6 +370,7 @@
     "*://*.leidschdagblad.nl/*",
     "*://*.lejdd.fr/*",
     "*://*.lejsl.com/*",
+    "*://*.lemagit.fr/*",
     "*://*.lenouveleconomiste.fr/*",
     "*://*.leparisien.fr/*",
     "*://*.lepoint.fr/*",
@@ -580,6 +582,7 @@
     "*://*.tampabay.com/*",
     "*://*.techinasia.com/*",
     "*://*.technologyreview.com/*",
+    "*://*.techtarget.com/*",
     "*://*.telegraaf.nl/*",
     "*://*.telegraph.co.uk/*",
     "*://*.telerama.fr/*",
@@ -738,5 +741,5 @@
     "*://*.wallkit.net/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.1.9.7"
+  "version": "3.1.9.8"
 }

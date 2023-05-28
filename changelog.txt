@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add GauchaZH
+Add TechTarget Group
 Add VmnMedia.nl Group (opt-in to custom sites)
 Remove Weltkunst.de (fix obsolete)
 Fix Challenges.fr & Sciences et Avenir.fr
