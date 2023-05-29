@@ -17,6 +17,9 @@ Windows Registry Editor Version 5.00
 "2"="extension-id2"
 ```
 
+You can also run the PowerShell script `bypass_paywalls_clean_allowlist.ps1` (as administrator) to add extension to the allowlist (script checks if extension already allowed or adds new registry-key).\
+For the parameter browser enter chrome, edge or brave.
+
 ### macOS
 
 Run one of the .mobileconfig files in [allowlist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/allowlist) (requires admin rights)\

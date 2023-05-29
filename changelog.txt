@@ -16,6 +16,7 @@ Fix Quora (AI bot crash)
 Fix The Athletic (Kiwi)
 Fix TheTimes.co.uk (overlay)
 Fix TownNews sites (encrypted)
+Add PowerShell-script for extension allowlist
 Update popup (Google Search Tool)
 
 * v3.1.9.0 (2023-05-21)
