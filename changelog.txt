@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.2.0.0 (2023-05-29)
 Add El Cronista (Argentina)
 Add GauchaZH
 Add Golem.de (link to archive.is)
