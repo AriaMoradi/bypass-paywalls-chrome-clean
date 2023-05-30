@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Fix ESPN USA
 
 * v3.2.0.0 (2023-05-29)
 Add El Cronista (Argentina)
@@ -9,7 +10,7 @@ Add GauchaZH
 Add Golem.de (link to archive.is)
 Add TechTarget Group
 Add VmnMedia.nl Group (opt-in to custom sites)
-Remove Mz.de & Volksstime.de (fix obsolete)
+Remove Mz.de & Volksstimme.de (fix obsolete)
 Remove Weltkunst.de (fix obsolete)
 Fix Challenges.fr & Sciences et Avenir.fr
 Fix Defector (cookie)
