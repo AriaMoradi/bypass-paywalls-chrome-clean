@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add Boersen-zeitung.de
+Fix El Mercurio (not Inversiones/Legal)
 Fix ESPN USA
 
 * v3.2.0.0 (2023-05-29)
