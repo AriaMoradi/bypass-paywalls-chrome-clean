@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add Follow the Money (Ftm.eu)
 Fix LeScienze.it
 Fix LeTelegramme.fr (css)
 Fix The Athletic (timing)
