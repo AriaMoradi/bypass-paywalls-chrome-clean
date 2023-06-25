@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add Follow the Money (Ftm.eu)
+Add Hindu Tamil Thisai (India)
 Fix Gazzetta.it (text only)
 Fix LeScienze.it
 Fix LeTelegramme.fr (css)
