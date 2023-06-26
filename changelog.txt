@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Fix Beobachter.ch & Handelszeitung.ch
 
 * v3.2.2.0 (2023-06-25)
 Add Follow the Money (Ftm.eu)
