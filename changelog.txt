@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add Groupe ESH Medias (ch)
 Fix Beobachter.ch & Handelszeitung.ch
 
 * v3.2.2.0 (2023-06-25)

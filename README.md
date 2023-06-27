@@ -767,11 +767,16 @@ Grouped in options:\
 [NyTeknik](https://www.nyteknik.se)
 
 ##### Switzerland
-[ArcInfo](https://www.arcinfo.ch) -
 [Beobachter](https://www.beobachter.ch) -
 [Handelszeitung](https://www.handelszeitung.ch) -
 [Neue Zürcher Zeitung (+ regional/CH Media; opt-in to custom sites)](https://www.nzz.ch) -
 [The Market](https://themarket.ch)
+
+Grouped in options:\
+*[Groupe ESH Médias](https://www.eshmedias.ch)* sites like\
+[ArcInfo](https://www.arcinfo.ch) -
+[La Côte](https://www.lacote.ch) -
+[Le Nouvelliste](https://www.lenouvelliste.ch)
 
 ##### Australia/New Zealand
 

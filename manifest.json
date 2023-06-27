@@ -339,6 +339,7 @@
     "*://*.kw.be/*",
     "*://*.la-croix.com/*",
     "*://*.labusinessjournal.com/*",
+    "*://*.lacote.ch/*",
     "*://*.ladepeche.fr/*",
     "*://*.ladiaria.com.uy/*",
     "*://*.lalibre.be/*",
@@ -377,6 +378,7 @@
     "*://*.lejsl.com/*",
     "*://*.lemagit.fr/*",
     "*://*.lenouveleconomiste.fr/*",
+    "*://*.lenouvelliste.ch/*",
     "*://*.leparisien.fr/*",
     "*://*.lepoint.fr/*",
     "*://*.leprogres.fr/*",
@@ -744,5 +746,5 @@
     "*://*.wyleex.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.2.2.1"
+  "version": "3.2.2.2"
 }
