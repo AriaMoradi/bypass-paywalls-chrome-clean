@@ -431,7 +431,6 @@ Grouped in options:\
 [The Spectator](https://www.spectator.co.uk) -
 [The Telegraph](https://www.telegraph.co.uk) -
 [The Times (link to archive.is)](https://www.thetimes.co.uk) -
-[The Times Literary Supplement](https://www.the-tls.co.uk) -
 [UnHerd](https://unherd.com)
 
 Grouped in options:\
@@ -532,7 +531,7 @@ Grouped in options:\
 [Charente libre](https://www.charentelibre.fr) -
 [La République des Pyrénées](https://www.larepubliquedespyrenees.fr) -
 [Sud Ouest](https://www.sudouest.fr)\
-*[Groupe SynerJ Media](https://synerj.media/)* sites (opt-in to custom sites)\
+*[Groupe SynerJ Media](https://synerj.media)* sites (opt-in to custom sites)\
 *Roularta Media Group* sites like\
 [Femmes d'Aujourd'hui](https://www.femmesdaujourdhui.be) -
 [Flair.be](https://www.flair.be/fr) -
@@ -582,7 +581,7 @@ Grouped in options:\
 [Westdeutsche Allgemeine Zeitung](https://www.waz.de) -
 [Westfalenpost](https://www.wp.de) -
 [Westfälische Rundschau](https://www.wr.de)\
-*[Haas Mediengruppe](https://www.haas-mediengruppe.de/marken/)* sites (opt-in to custom sites)\
+*[Haas Mediengruppe](https://www.haas-mediengruppe.de/marken)* sites (opt-in to custom sites)\
 *Landwirtschaftsverlag* sites like\
 [Profi.de](https://www.profi.de) -
 [Top Agrar.at](https://www.topagrar.at) -
@@ -755,7 +754,7 @@ Grouped in options:\
 [Las Provincias](https://www.lasprovincias.es) -
 [Sur](https://www.diariosur.es)
 
-*[Sport Life Ibérica](https://www.sportlifeiberica.es/)* sites (opt-in to custom sites)
+*[Sport Life Ibérica](https://www.sportlifeiberica.es)* sites (opt-in to custom sites)
 
 ##### Sweden
 [Aftonbladet](https://www.aftonbladet.se) -
