@@ -3,6 +3,7 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add Groupe ESH Medias (ch)
+Add Hln.be (link to archive.is)
 Add Zeit.de (link to archive.is)
 Remove LePoint.fr (fix obsolete)
 Remove Stratfor (fix obsolete)
