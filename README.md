@@ -32,7 +32,7 @@ You can add/pin the extension icon to the toolbar with the toolbar extensions me
 5. Enable Developer Mode.
 6. Click `Load unpacked` and select/open the extension folder (contains file manifest.json).
 
-*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
+*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or *clear cookies* (BPC-icon) to ask for permission for current site).
 
 If you're familiar with Git(Hub)-clients you can also clone this repo and update the extension that way (load unpacked folder used by Git(Hub)-client).
 
@@ -44,7 +44,7 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 3. Enable Developer Mode.
 4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic updates).
 
-* By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
+* By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or *clear cookies* (BPC-icon) to ask for permission for current site).
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) from the Google PlayStore.
@@ -402,7 +402,7 @@ Grouped in options:\
 
 [Bloomberg Adria](https://www.bloombergadria.com) -
 [EUobserver](https://euobserver.com) -
-[Follow the Money - ftm.eu](https://www.ftm.eu) -
+[Follow the Money (ftm.eu)](https://www.ftm.eu)
 
 ##### United Kingdom/Ireland
 [Belfast Telegraph](https://www.belfasttelegraph.co.uk) -
@@ -640,7 +640,7 @@ Grouped in options:\
 [Il Telegrafo Livorno](https://www.iltelegrafolivorno.it) -
 [La Nazione](https://www.lanazione.it)
 
-*[Gruppo SAE.it](https://www.grupposae.it/i-quotidiani)** sites like\
+*[Gruppo SAE.it](https://www.grupposae.it/i-quotidiani)** sites like (opt-in to custom sites for unlisted)\
 [Il Tirreno](https://www.iltirreno.it)* -
 [La Nuova Sardegna](https://www.lanuovasardegna.it)*
 
@@ -780,6 +780,7 @@ Grouped in options:\
 
 [Eureka Report](https://www.eurekareport.com.au) -
 [Intelligent Investor](https://www.intelligentinvestor.com.au) -
+[MacroBusiness](https://www.macrobusiness.com.au) -
 [New Zealand Herald](https://www.nzherald.co.nz) -
 [Quillette (link to archive.is)](https://quillette.com) -
 [The Saturday Paper](https://www.thesaturdaypaper.com.au) -
@@ -914,7 +915,7 @@ _* free articles only._
 
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.  
-Click on the BPC-icon and then 'clear cookies'-button in the popup (for unsupported sites grant permission for domain).  
+Click on the BPC-icon and then *clear cookies*-button in the popup (for unsupported sites grant permission for domain).  
 If removing the cookies works you can also add the site as a custom site.
 
 ### New site requests
@@ -931,7 +932,7 @@ Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass
 ### Add custom site
 Add your own custom site (also for testing).  
 Check 'Options'-link in popup-menu and go to custom sites.  
-\*  by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
+\*  by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or *clear cookies* (BPC-icon) to ask for permission for current site).
 
 By default sites' cookies/local storage are blocked/removed (for example to bypass article limit when metered paywall).
 

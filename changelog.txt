@@ -4,6 +4,7 @@ Changelog Bypass Paywalls Clean - Chrome
 Post-release
 Add Groupe ESH Medias (ch)
 Add Hln.be (link to archive.is)
+Add MacroBusiness.com.au (ld_nuxt)
 Add Puck.news
 Add Zeit.de (link to archive.is)
 Remove AerzteBlatt.de (fix obsolete)
