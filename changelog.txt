@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.2.3.0 (2023-07-02)
 Add Groupe ESH Medias (ch)
 Add Hln.be (link to archive.is)
 Add MacroBusiness.com.au (ld_nuxt)
