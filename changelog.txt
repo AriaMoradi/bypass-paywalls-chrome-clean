@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add NWT Media.se (opt-in to custom sites)
 
 * v3.2.3.0 (2023-07-02)
 Add Groupe ESH Medias (ch)
