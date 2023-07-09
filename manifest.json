@@ -730,6 +730,7 @@
     "*://*.cedscdn.it/*",
     "*://*.cedsdigital.it/*",
     "*://*.corriereobjects.it/*",
+    "*://*.crusoe.com.br/*",
     "*://*.emol.cl/*",
     "*://*.flip-pay.com/*",
     "*://*.gitlab.com/magnolia1234/*",
@@ -743,5 +744,5 @@
     "*://*.wyleex.com/*",
     "*://webcache.googleusercontent.com/*"
   ],
-  "version": "3.2.3.5"
+  "version": "3.2.3.6"
 }
