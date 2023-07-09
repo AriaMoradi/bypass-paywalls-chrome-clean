@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.2.4.0 (2023-07-09)
 Add Delish, Elle Decor, Harper's Bazaar & Oprah Daily (Hearst)
 Add NWT Media.se (opt-in to custom sites)
 Add Stuttgarter-zeitung.de
