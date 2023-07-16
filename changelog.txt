@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.2.5.0 (2023-07-16)
 Add El Tribuno (ar)
 Add Sabado.pt
 Remove TorStar local (fix obsolete)
