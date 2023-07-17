@@ -1,4 +1,10 @@
 var ext_api = (typeof browser === 'object') ? browser : chrome;
+var url_loc = (typeof browser === 'object') ? 'firefox' : 'chrome';
+var manifestData = ext_api.runtime.getManifest();
+var navigator_ua = navigator.userAgent;
+var navigator_ua_mobile = navigator_ua.toLowerCase().includes('mobile');
+var yandex_browser = navigator_ua_mobile && (url_loc === 'chrome') && navigator_ua.toLowerCase().includes('yabrowser');
+var custom_switch = ((manifestData.optional_permissions && manifestData.optional_permissions.length) || (manifestData.optional_host_permissions && manifestData.optional_host_permissions.length)) && !(navigator_ua_mobile && !yandex_browser);
 
 function popup_show_toggle(domain, enabled) {
   if (domain) {
@@ -34,32 +40,35 @@ ext_api.runtime.onMessage.addListener(function (message, sender) {
   }
 });
 
+var cookie_domain;
+ext_api.tabs.query({
+  active: true,
+  currentWindow: true
+}, function (tabs) {
+  if (tabs && tabs[0] && /^http/.test(tabs[0].url)) {
+    let hostname = new URL(tabs[0].url).hostname;
+    cookie_domain = getCookiePermDomain(hostname);
+  }
+});
+
 document.getElementById("clear_cookies").addEventListener('click', function () {
-  ext_api.tabs.query({
-    active: true,
-    currentWindow: true
-  }, function (tabs) {
-    if (tabs && tabs[0] && /^http/.test(tabs[0].url)) {
-      let hostname = new URL(tabs[0].url).hostname;
-      let cookie_domain = getCookiePermDomain(hostname);
-      ext_api.permissions.contains({
-        origins: ["*://*." + cookie_domain + "/*"]
-      }, function (result) {
-        if (result) {
-          ext_api.runtime.sendMessage({
-            request: 'clear_cookies'
-          });
-        } else {
-          ext_api.permissions.request({
-            origins: ["*://*." + cookie_domain + "/*"]
-          }, function (granted) {
-            if (granted) {
-              ext_api.runtime.sendMessage({
-                request: 'clear_cookies'
-              });
-            }
-          });
-        }
+if (custom_switch)
+  ext_api.permissions.request({
+    origins: ["*://*." + cookie_domain + "/*"]
+  }, function (granted) {
+    if (granted) {
+      ext_api.runtime.sendMessage({
+        request: 'clear_cookies'
+      });
+    }
+  });
+else
+  ext_api.permissions.contains({
+    origins: ["*://*." + cookie_domain + "/*"]
+  }, function (result) {
+    if (result) {
+      ext_api.runtime.sendMessage({
+        request: 'clear_cookies'
       });
     }
   });

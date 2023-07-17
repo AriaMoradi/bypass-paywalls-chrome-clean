@@ -32,7 +32,7 @@ You can add/pin the extension icon to the toolbar with the toolbar extensions me
 5. Enable Developer Mode.
 6. Click `Load unpacked` and select/open the extension folder (contains file manifest.json).
 
-*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or *clear cookies* (BPC-icon) to ask for permission for current site).
+*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request host permissions for the custom sites you added yourself (or *clear cookies* (BPC-icon) to ask for permission for current site).
 
 If you're familiar with Git(Hub)-clients you can also clone this repo and update the extension that way (load unpacked folder used by Git(Hub)-client).
 
@@ -44,7 +44,7 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 3. Enable Developer Mode.
 4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic updates).
 
-* By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or *clear cookies* (BPC-icon) to ask for permission for current site).
+* By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request host permissions for the custom sites you added yourself (or *clear cookies* (BPC-icon) to ask for permission for current site).
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) from the Google PlayStore.
@@ -62,7 +62,7 @@ Use adblocker with custom (content)filter: https://gitlab.com/magnolia1234/bypas
 For crx-installation: check for updates (in chrome://extensions).\
 For zip-installation (load unpacked/developer mode): unzip files to installation folder or use a Git(Hub)-client to clone the extension (locally).\
 You can also check for update of site rules at startup (opt-in); only available until about 10 days after fix-release.\
-For new sites you also have to opt-in to custom sites/request permissions for new domains (or wait for new release).
+For new sites you also have to opt-in to custom sites/request host permissions for new domains (or wait for new release).
 
 ### Troubleshooting
 * If a site doesn't work, first try to turn off your adblocker (or other extension) and refresh page.
@@ -927,7 +927,7 @@ Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass
 ### Add custom site
 Add your own custom site (also for testing).  
 Check 'Options'-link in popup-menu and go to custom sites.  
-\*  by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request permissions for the custom sites you added yourself (or *clear cookies* (BPC-icon) to ask for permission for current site).
+\*  by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for unlisted sites). You can also just request host permissions for the custom sites you added yourself (or *clear cookies* (BPC-icon) to ask for permission for current site).
 
 By default sites' cookies/local storage are blocked/removed (for example to bypass article limit when metered paywall).
 
