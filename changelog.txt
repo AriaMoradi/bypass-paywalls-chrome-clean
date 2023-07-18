@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Fix Medium (identify member-only)
 Maintenance request host permission (disable for mobile)
 
 * v3.2.5.0 (2023-07-16)
