@@ -3,8 +3,8 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 Add Auto-motor-und-sport.de
+Add Medienholding Süd (opt-in to custom sites for unlisted)
 Add Money.it
-Add Schwarzwaelder-bote.de & Stuttgarter-nachrichten.de
 Fix Australian Community Media (css)
 Fix Medium (identify member-only)
 Fix Puck.news (cached articles only)
