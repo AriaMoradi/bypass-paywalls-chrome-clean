@@ -2,6 +2,7 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+Add Money.it
 Add Schwarzwaelder-bote.de & Stuttgarter-nachrichten.de
 Fix Australian Community Media (css)
 Fix Medium (identify member-only)

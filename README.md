@@ -59,10 +59,13 @@ Visit the [Firefox repository](https://gitlab.com/magnolia1234/bypass-paywalls-f
 Use adblocker with custom (content)filter: https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters
 
 ### Update
-For crx-installation: check for updates (in chrome://extensions).\
-For zip-installation (load unpacked/developer mode): unzip files to installation folder or use a Git(Hub)-client to clone the extension (locally).\
-You can also check for update of site rules at startup (opt-in); only available until about 10 days after fix-release.\
-For new sites you also have to opt-in to custom sites/request host permissions for new domains (or wait for new release).
+For crx-installation: extension will update automatically or check for updates (in chrome://extensions).\
+Extension may be disabled (in Chrome/Edge) when extension needs new host permissions for added domains: opt-in/opt-out to custom sites once to disable this 'error' (browser will remember granted permissions).
+
+For zip-installation (load unpacked/developer mode): unzip files to installation folder or use a Git(Hub)-client to clone the extension (locally).
+
+You can also check for (post-release) updates of site rules at startup (opt-in); only available until about 10 days after fix-release.\
+For new (updated) sites you also have to opt-in to custom sites/request host permissions for new domains (or wait for new release).
 
 ### Troubleshooting
 * If a site doesn't work, first try to turn off your adblocker (or other extension) and refresh page.
@@ -616,8 +619,8 @@ Grouped in options:\
 [Il Manifesto](https://ilmanifesto.it) -
 [Internazionale](https://www.internazionale.it) -
 [Italia Oggi](https://www.italiaoggi.it) -
-[La Gazzetta dello Sport](https://www.gazzetta.it)
-
+[La Gazzetta dello Sport](https://www.gazzetta.it) -
+[Money.it](https://www.money.it)
 
 Grouped in options:\
 *Gruppo GEDI.it* sites like\
