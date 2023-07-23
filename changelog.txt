@@ -2,6 +2,8 @@
 Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
+
+* v3.2.6.0 (2023-07-23)
 Add Auto-motor-und-sport.de
 Add Business-standard.com (json)
 Add Medienholding Süd (opt-in to custom sites for unlisted)
